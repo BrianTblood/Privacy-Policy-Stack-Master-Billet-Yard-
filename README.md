@@ -95,8 +95,8 @@ We may update this Privacy Policy from time to time, including if we change our 
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
 Company    BLT Innovations LLC
-Email      bltinnovationsllc@gmail.com
-Website    https://blt-innovations.itch.io/stack-master
+Email      briantrueblood@bltinnovations.co.site
+
 // Stack Master: Billet Yard — Privacy Policy v2.0
 // BLT Innovations LLC — Effective March 17, 2026
 // For Apple App Store and Google Play Store submissions
